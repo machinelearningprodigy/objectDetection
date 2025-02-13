@@ -17,9 +17,13 @@ Welcome to the **AI Image Generation & Object Detection App**! This project util
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/ai-image-app.git
-   cd ai-image-app
+   https://github.com/machinelearningprodigy/objectDetection
+   
    ```
+    ```bash
+    cd objectDetection
+      ```
+
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
